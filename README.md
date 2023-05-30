@@ -1,2 +1,2 @@
-# bFSAlgorithm
+# bfsAlgorithm
 BFS Algorithm
